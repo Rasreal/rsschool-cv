@@ -2,16 +2,16 @@
 
 ```
 +7(XXX) XXX-XX58
-⋄Almaty, Astana
+⋄Almaty, X
 
 ```
 OBJECTIVE
-Senior Software Engineer in 5 years. Learning other directions like Front and Back developments.
+Senior Software Engineer in X years. Learning other directions like Front and Back developments.
 
 EDUCATION
-Master of Computer Science, Nazarbayev University Expected 2026
+Master of Computer Science, X University Expected 2026
 
-Bachelor of Computer Science, Nazarbayev University 2021 - 2025
+Bachelor of Computer Science, X University 2021 - 2025
 
 SKILLS
 
@@ -20,13 +20,13 @@ Soft Skills Communication, Emotional Intelligence, Self-learning, Leadership
 
 EXPERIENCE
 Mobile app Developer (FLutter) Sep 2022 - Jan 2023
-WLFF AstanaHub, Astana, Kazakhstan
+X Kazakhstan
 
 - Learned to work in a freelance platform.
 - Participated in 3 medium-large projects.
 - Experience with publishing apps to Google Market, Apple Store
 Flutter Dev Jul 2023 - Sep 2023
-BeeFixi Boston, MA
+X Boston, MA
 - Implemented a bank payment service (Stripe)
 - Developed ChatWoot (ServiceDesk) and connected to the app with the admin panel.
 - Worked with Amazon Web Service (AWS) and developed Lambda functions on Node.js, and using them as APIs
